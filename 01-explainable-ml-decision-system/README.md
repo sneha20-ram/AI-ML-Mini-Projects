@@ -69,3 +69,28 @@ The target is mapped as:
 ```text
 0 → Lower Risk / Good Credit
 1 → Higher Risk / Bad Credit
+
+
+---
+
+## 📸 Application Screenshots
+
+### Main Application
+
+![Main Application](screenshots/01-app-main.png)
+
+### Credit Risk Prediction
+
+![Prediction Result](screenshots/02-prediction-result.png)
+
+### What-If Analysis
+
+![What-If Analysis](screenshots/03-what-if-analysis.png)
+
+### What-If Result
+
+![What-If Result](screenshots/04-what-if-change.png)
+
+### GitHub Project Structure
+
+![GitHub Repository](screenshots/05-github-repository.png)
